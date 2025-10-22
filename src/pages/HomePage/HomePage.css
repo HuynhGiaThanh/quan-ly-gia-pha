@@ -1,0 +1,23 @@
+.homepage {
+  text-align: center;
+}
+
+.homepage h2 {
+  color: #2c3e50;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3rem;
+  gap: 2rem;
+}
+
+.feature-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 30%;
+  text-align: left;
+}

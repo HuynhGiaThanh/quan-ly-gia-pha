@@ -1,0 +1,17 @@
+.member-detail-container {
+    display: flex;
+    gap: 20px;
+}
+
+.member-avatar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ddd;
+}
+
+.member-info p {
+    margin: 8px 0;
+    line-height: 1.6;
+}
